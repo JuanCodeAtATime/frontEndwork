@@ -1,0 +1,110 @@
+body {
+    margin: 0 auto;
+    background: url("../images/bosUnderground.jpg");
+    background-size: cover;
+}
+.container1 {
+    margin-top: 35px 0px 0px 0px;
+    padding: 5px 10px;
+    height: 500px;
+    align-items: center;
+    justify-content: center;
+}
+
+.container2 {
+    margin: 0;
+    height: auto;
+    background-color: moccasin;
+    opacity: .85;
+    color: #36454F;
+    align-content: center;
+    text-align: center;
+    padding: 5px 10px;
+    align-items: center;
+}
+.container3 {
+    margin: 0;
+    height: auto;
+    background-color: lightskyblue;
+    opacity: .85;
+    color: #36454F;
+    align-content: center;
+    text-align: center;
+    padding: 10px 10px;
+    align-items: center;
+    font-family: 'Staatliches', cursive;
+
+}
+.container4 {
+    margin: 0;
+    height: auto;
+    background-color: red;
+    opacity: .85;
+    color: whitesmoke;
+    align-content: center;
+    text-align: center;
+    padding: 5px 10px;
+    align-items: center;
+    font-family: 'Staatliches', cursive;
+
+}
+
+
+.btn2 {
+    background-color: rgba(255, 0, 0, 0.6);
+    color: whitesmoke;
+    font-family: 'Permanent Marker', cursive;
+    margin: 15px auto;
+    text-align: center;
+   
+}
+
+.redBtn {
+    text-align: center;
+}
+
+#temp, #wind, #humid {
+    margin-bottom: 2px;
+    padding: 0;
+    font-family: 'Permanent Marker', cursive;
+
+}
+
+
+
+.headline {
+    font-family: 'Staatliches', cursive;
+    color: whitesmoke;
+    font-size: 2.55em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.navbar-brand {
+    color: whitesmoke;
+}
+
+.custom-select {
+   font-family: 'Permanent Marker', cursive;
+   font-size: 1em;
+   margin-bottom: 5px;
+
+}
+
+#row3 {
+padding-top: 5px; 
+
+}
+
+
+
+
+
+
+
+/* Font inventory
+font-family: 'Shadows Into Light', cursive;
+font-family: 'Staatliches', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Archivo Black', sans-serif;
+font-family: 'Kaushan Script', cursive; */
